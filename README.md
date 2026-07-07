@@ -1,4 +1,4 @@
-his project relates to "TJ Weather Station" and "TJ Fan Controller"(not published yet) and "TJ Weather Node"(not published yet)
+this project relates to "TJ Weather Station" and "TJ Fan Controller"(not published yet) and "TJ Weather Node"(not published yet)
 
 Parts list:
 - Seeed Studio XIAO ESP32 S3
